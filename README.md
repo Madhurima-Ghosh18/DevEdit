@@ -1,15 +1,21 @@
-# React + Vite
+# DevEdit
 
-An in-browser code editor that allows you to write and execute your code in the browser.
+## Overview ##
+DevEdit CodeEditor is a web-based application that enables users to write, edit, and run code in multiple programming languages. The app provides a smooth and intuitive interface for coding with features like language selection, version control, and code execution, all powered by Chakra UI for a modern and responsive design.
 
-## Run Locally
+## Features ##
+* Write and edit code in a variety of programming languages.
+* Select different languages and their versions.
+* Run code and view the output.
+* Modern and responsive UI with Chakra UI.
+  
 
-```bash
-# install dependencies
+### install dependencies
 
 npm install
 
-# start the dev server
+npm i @chakra-ui/react
+### start the dev server
 
 npm run dev
-```
+
